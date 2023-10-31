@@ -11,7 +11,7 @@ class MainClass
     {
 
         string myName;
-        myName = "Jane";
+        myName = "Roman";
 
         Console.WriteLine(myName);
 
